@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "securlybypasser-v9999999",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d4d4b345-1d32-4063-82ea-eaeb419d98c1",
+      "database_name": "imboreedandfedup"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
